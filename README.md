@@ -28,3 +28,5 @@
 - 2. Pembeli
 -   User Pembeli berfungsi untuk melakukan pembelian produk, melakukan pembayaran, dan upload bukti pembayaran. Untuk mengakses aplikasi, pembeli dapat melakukan registrasi akun.
 
+![IMG_3547](https://user-images.githubusercontent.com/105438609/184494992-14f03970-2601-449d-9c70-ac31587aa4ea.JPG)
+
