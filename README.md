@@ -1,7 +1,10 @@
 ### Panduan Instalasi
-## Topik Proyek			: Pengembangan Aplikasi E-Commerce Lobster Di Kawasan Danau Toba Berbasis Android
-## Nama Sistem atau Aplikasi	: TobaLobs
-## Jenis Sistem atau Aplikasi	: Mobile dan Web
+## Topik Proyek			: 
+   Pengembangan Aplikasi E-Commerce Lobster Di Kawasan Danau Toba Berbasis Android
+## Nama Sistem atau Aplikasi	: 
+   TobaLobs
+## Jenis Sistem atau Aplikasi	: 
+   Mobile dan Web
 ## Spesifikasi	:
 - Windows 10
 - Installed Memory (RAM) 8 Gb
