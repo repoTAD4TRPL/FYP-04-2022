@@ -43,7 +43,7 @@ User Pembeli berfungsi untuk melakukan pembelian produk, melakukan pembayaran, d
 - Kemudian buka project yang telah di clone.
 - Buka terminal, dan ketik perintah :
         "composer update"
-- Kemudian buat file .env baru, copy semua isi file pada file .env.example, kemudian ketikkan perintah :
+- Kemudian buat file .env baru, copy semua isi file pada file .env.example ke file .env yang baru, kemudian ketikkan perintah :
         "php artisan key:generate"
 - Kemudian buka XAMPP, aktifkan Apache dan MySQL
 - Buat database baru. Kemudian konfigurasi pada file .env, sesuaikan DB_DATABASE dengan database yang dibuat.
