@@ -36,7 +36,7 @@ User Pembeli hanya dapat mengakses aplikasi android, user pembeli berfungsi untu
 ### Langkah - Langkah menjalankan Website
 - Akses link repository yang akan di clone
      https://github.com/repoTAD4TRPL/FYP-04-2022
-- Klik Button “Code”. Lalu copy link yang disediakan seperti pada gambar.
+- Klik Button “Code”. Lalu copy link yang disediakan.
 - Tetapkan lokasi folder yang akan digunakan yaitu xampp/htdocs, kemudian buat folder baru untuk repository yang akan kita clone. 
 - Ketik “cmd” pada path folder.
 - Kemudian ketikkan perintah berikut “git clone” diikuti dengan link yang telah dicopy.
