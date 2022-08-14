@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "120852433451",
+    "project_id": "tobalobscom",
+    "storage_bucket": "tobalobscom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120852433451:android:d9d7a29c0b4c31b0ddb86e",
+        "android_client_info": {
+          "package_name": "j012.tobalobsecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120852433451-loiam03morrib60dor7k3r566a54c660.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "j012.tobalobsecommerce",
+            "certificate_hash": "8c1aa177ad8201b442bb589c518aed48fa99afea"
+          }
+        },
+        {
+          "client_id": "120852433451-s46bqdub4junb8jerl4qfu9vvj8c59k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTBoTK1VdACzFbY4KCMPY-4FXypnwDVlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120852433451-s46bqdub4junb8jerl4qfu9vvj8c59k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

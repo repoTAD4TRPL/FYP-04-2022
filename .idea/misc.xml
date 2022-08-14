@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/drawable-v24/ic_baseline_payment_24.xml" value="0.1345" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_add_alamat.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_baru.xml" value="0.17074275362318841" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_detail_produk.xml" value="0.21" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_detail_transk.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_list_alamat.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_log_reg.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_pembayaran.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_pengiriman.xml" value="0.22" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_riwayat.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/activity_transfer.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/fragment_akun.xml" value="0.25" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/fragment_keranjang.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/item_produk_transaksi.xml" value="0.25" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/itemalamat.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/itembank.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/itemkeranjang.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/itemkurir.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/itemproduk.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/itemriwayat.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/itemslider.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/itemspinner.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/toolbarcustom.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/layout/upload_trans.xml" value="0.20416666666666666" />
+        <entry key="..\:/PERKULIAHAN/TA/IMPLEMENTASI/TobalobsEcommerce/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
