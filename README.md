@@ -45,14 +45,14 @@ Langkah - Langkah menjalankan Website
 - 5. Kemudian ketikkan perintah berikut “git clone” diikuti dengan link yang telah dicopy.
 - 6. Kemudian buka project yang telah di clone.
 - 7. Buka terminal, dan ketik perintah :
-        composer update
+        "composer update"
 - 8. Kemudian buat file .env baru, copy semua isi file pada file .env.example, kemudian ketikkan perintah :
-        php artisan key:generate
+        "php artisan key:generate"
 - 9. Kemudian buka XAMPP, aktifkan Apache dan MySQL
 - 10. Buat database baru. Kemudian konfigurasi pada file .env, sesuaikan DB_DATABASE dengan database yang dibuat.
 - 11. Lakukan migrasi database atau dapat menggunakan perintah :
-        php artisan migrate
+        "php artisan migrate"
 - 12. Kemudian jalankan seeder atau dapat menggunakan perintah :
-        php artisan db:seed
+        "php artisan db:seed"
 - 13. Kemudian run project atau dapat menggunakan perintah :
-        php artisan serve
+        "php artisan serve"
