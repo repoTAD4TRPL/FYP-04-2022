@@ -46,7 +46,7 @@ User Pembeli hanya dapat mengakses aplikasi android, user pembeli berfungsi untu
 - Kemudian buat file .env baru, copy semua isi file pada file .env.example ke file .env yang baru, kemudian ketikkan perintah :
         "php artisan key:generate"
 - Kemudian buka XAMPP, aktifkan Apache dan MySQL
-- Buat database baru. Kemudian konfigurasi pada file .env, sesuaikan DB_DATABASE dengan database yang dibuat.
+- Buat database baru di phpMyAdmin. Kemudian konfigurasi pada file .env, sesuaikan DB_DATABASE dengan nama database yang baru dibuat.
 - Lakukan migrasi database atau dapat menggunakan perintah :
         "php artisan migrate"
 - Kemudian jalankan seeder atau dapat menggunakan perintah :
