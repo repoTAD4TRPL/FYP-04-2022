@@ -53,3 +53,20 @@ User Pembeli hanya dapat mengakses aplikasi android, user pembeli berfungsi untu
         "php artisan db:seed"
 - Kemudian run project atau dapat menggunakan perintah :
         "php artisan serve"
+        
+ ### Langkah - Langkah menjalankan Aplikasi Android
+- Akses link repository yang akan di clone
+    https://github.com/repoTAD4TRPL/FYP-04-2022.git
+- Pilih Branch Android
+- Klik Button “Code”. Lalu copy link yang disediakan.
+- Tetapkan lokasi folder yang akan digunakan untuk repository yang akan kita clone.
+- Buat folder baru. Ketik “cmd” pada path folder.
+- Kemudian ketikkan perintah berikut “git init” 
+- Kemudian ketikkan perintah “git remote add origin” diikuti dengan link yang telah dicopy.
+- Ketikkan perintah “git pull origin ‘nama branch’ ”. Tunggu sampai proses Clone selesai.
+- Kemudian buka project yang telah di clone pada Android Studio dan Run.
+- Jika menggunakan emulator, seperti emulator Nox. 
+- Buka folder tempat aplikasi nox berada. Kemudian buka folder bin, kemudian pada path folder, kemudian ketikkan “cmd”
+- Ketikkan perintah berikut “nox_adb.exe connect 127.0.0.1:62001”, kemudian enter. Tunggu sampai prosesnya selesai dan berhasil.
+- Pada android studio akan ditampilkan nama emulator yang kita gunakan. Kemudian run.
+
