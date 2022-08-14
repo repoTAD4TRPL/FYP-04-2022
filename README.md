@@ -33,7 +33,7 @@ User Admin berfungsi untuk mengelola produk, mengelola pesanan, membuat history 
 #### 2. Pembeli
 User Pembeli berfungsi untuk melakukan pembelian produk, melakukan pembayaran, dan upload bukti pembayaran. Untuk mengakses aplikasi, pembeli dapat melakukan registrasi akun.
 
-Langkah - Langkah menjalankan Website
+### Langkah - Langkah menjalankan Website
 - Akses link repository yang akan di clone
      https://github.com/repoTAD4TRPL/FYP-04-2022
 - Klik Button “Code”. Lalu copy link yang disediakan seperti pada gambar.
